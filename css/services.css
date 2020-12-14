@@ -1,0 +1,16 @@
+.list{
+    list-style: none;
+}
+
+.navbar{
+    box-shadow: 1px 1px 8px 5px rgb(182, 185, 196);
+}
+
+hr{
+    margin-top: -70px;
+    margin-bottom: 70px;
+    width: 420px;
+    background: rgb(204, 228, 247);
+    box-shadow: 0px 4px 8px 0px rgb(182, 185, 196);
+
+}
