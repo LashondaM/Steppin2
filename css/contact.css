@@ -1,0 +1,18 @@
+.navbar{
+    box-shadow: 1px 1px 8px 5px rgb(182, 185, 196);
+}
+
+
+.hold{
+    /* background-color: pink;    */
+}
+
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+/* .dropdown{
+    float: right;
+} */
