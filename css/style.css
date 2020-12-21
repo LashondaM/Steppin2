@@ -253,3 +253,8 @@ hr{
     box-shadow: 0 0 10px rgb(154, 82, 248),
                 0 0 20px rgb(214, 182, 255);
 }
+
+
+.irmax{
+    line-height: 30px;
+}
