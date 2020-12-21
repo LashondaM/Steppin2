@@ -21,3 +21,23 @@ p{
 .diego{
     height: 500px;
 }
+
+.first{
+    margin-left: 200px;
+}
+
+
+/* 2nd section */
+
+.kgSalone{
+    height: 500px;
+}
+
+.second{
+    background: rgb(161, 165, 165);
+    /* background: rgb(153, 158, 158); */
+    margin-bottom: 100px;
+    /* box-shadow: 1px 1px 8px 5px rgb(182, 185, 196); */
+
+
+}
