@@ -34,10 +34,18 @@ p{
 }
 
 .second{
-    background: rgb(142, 148, 148);
+    background: rgb(217, 223, 223);
     /* background: rgb(153, 158, 158); */
     margin-bottom: 100px;
     /* box-shadow: 1px 1px 8px 5px rgb(182, 185, 196); */
 
 
+}
+
+.yolo{
+    height: 500px;
+}
+
+.third{
+    margin-bottom: 100px;
 }

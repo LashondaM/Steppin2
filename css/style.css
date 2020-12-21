@@ -24,7 +24,7 @@ body{
 
     /* text-size-adjust: 10px; */
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 
 
@@ -56,6 +56,11 @@ body{
     box-shadow: 0 0 10px rgb(179, 137, 199),
                  0 0 20px rgb(137, 32, 185);
                  /* 0 0 40px rgb(137, 32, 185); */
+}
+
+.video{
+    box-shadow: 0 0 10px rgb(177, 131, 199),
+                 0 0 10px rgb(137, 32, 185);
 }
 
 .pre{

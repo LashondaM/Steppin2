@@ -6,5 +6,6 @@ $(window).scroll(function(){
     // $('.tres').css('top', -8 + (wScroll*.005)+'em')
     $('.dice').css('top', -3 + (wScroll*.005)+'em')
     // $('.dice').css('left', -3 + (wScroll*.005)+'em')
+    $('.video').css('left' + (wScroll*.005)+'em')
     
 })
