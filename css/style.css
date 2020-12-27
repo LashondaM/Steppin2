@@ -53,8 +53,8 @@ body{
 } */
 
 .dice{
-    box-shadow: 0 0 10px rgb(179, 137, 199),
-                 0 0 20px rgb(137, 32, 185);
+    /* box-shadow: 0 0 10px rgb(179, 137, 199), */
+                 /* 0 0 20px rgb(137, 32, 185); */
                  /* 0 0 40px rgb(137, 32, 185); */
 }
 
@@ -139,11 +139,11 @@ body{
 
 h2{
     /* margin-top: 400px; */
-    filter: blur(.6px);
-    color: white;
-    text-shadow: 0 0 10px rgb(116, 32, 185),
-                 0 0 20px rgb(73, 32, 185),
-                 0 0 40px rgb(137, 32, 185);
+    /* filter: blur(.6px); */
+    /* color: white; */
+    /* text-shadow: 0 0 10px rgb(116, 32, 185), */
+                 /* 0 0 20px rgb(73, 32, 185), */
+                 /* 0 0 40px rgb(137, 32, 185); */
                  /* 0 0 80px rgb(137, 32, 185); */
                  /* 0 0 140px rgb(137, 32, 185); */
 
@@ -257,4 +257,63 @@ hr{
 
 .irmax{
     line-height: 30px;
+}
+
+
+/* featured artists start */
+
+.sub{
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+    text-shadow: 0 0 10px rgb(229, 220, 233);
+}
+
+
+.diez{
+    color: white;
+    text-shadow: 0 0 10px rgb(137, 217, 230);
+    margin-left: 20px;
+}
+
+.diego{
+    height: 500px;
+
+}
+
+.hola{
+    margin-left: 220px;
+}
+
+
+
+.once{
+    color: white;
+    text-shadow: 0 0 10px rgb(137, 217, 230);
+    margin-left: 4.5px;
+}
+
+.kgSalone{
+    height: 500px;
+    /* padding-left: 200; */
+}
+.adios{
+    margin-left: 200px;
+}
+
+
+
+.doce{
+    color: white;
+    text-shadow: 0 0 10px rgb(137, 217, 230);
+}
+
+.yolo{
+    height: 500px;
+}
+
+
+
+.nuevo{
+    margin-bottom: 150px;
 }
