@@ -4,7 +4,7 @@ body{
 
 .jumbotron{
     margin-top: 150px;
-    margin-bottom: 300px;
+    margin-bottom: 5px;
     background: black;
     filter: blur(.6px);
     color: white;
@@ -17,12 +17,23 @@ body{
 
 
 .lead{
-    filter: none;
+    text-align: center;
+    margin-bottom: 100px;
+    color: white;
     text-shadow: 0 0 10px rgb(202, 158, 223),
                  0 0 20px rgb(172, 85, 212),
-                 0 0 40px rgb(222, 196, 235),
-                 0 0 80px rgb(110, 12, 155);
+                 /* 0 0 40px rgb(222, 196, 235), */
+                 0 0 40px rgb(110, 12, 155);
                  /* 0 0 140px rgb(137, 32, 185); */
+}
+
+
+/* logo */
+
+.logo{
+    height: 200px;
+    margin-bottom: 200px;
+    padding-left: 440px;
 }
 
 
