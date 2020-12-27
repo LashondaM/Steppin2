@@ -58,9 +58,10 @@ body{
                  /* 0 0 40px rgb(137, 32, 185); */
 }
 
-.video{
-    box-shadow: 0 0 10px rgb(177, 131, 199),
-                 0 0 10px rgb(137, 32, 185);
+.video0{
+    box-shadow: 0 0 10px rgb(198, 111, 238),
+                0 0 10px rgb(177, 131, 199);
+                 
 }
 
 .pre{
@@ -387,4 +388,34 @@ hr{
 .move6{
     margin-top: 100px;
     /* margin-right: 300px; */
+}
+
+
+/* the team end */
+
+
+
+/* music */
+
+.video1{
+    margin-left: -90px;
+}
+
+.video2{
+    margin-left: 90px;
+}
+
+.video3{
+    box-shadow: 0 0 10px rgb(150, 158, 235),
+                0 0 10px rgb(131, 158, 199);
+                 
+}
+
+
+.sub3{
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+    text-shadow: 0 0 10px rgb(229, 220, 233);
+    font-size: 30px;
 }
