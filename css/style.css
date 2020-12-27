@@ -306,6 +306,7 @@ hr{
 .doce{
     color: white;
     text-shadow: 0 0 10px rgb(137, 217, 230);
+    margin-left: 140px;
 }
 
 .yolo{
@@ -316,4 +317,62 @@ hr{
 
 .nuevo{
     margin-bottom: 150px;
+}
+
+
+
+/* featured artists end */
+
+
+/* the team start */
+
+.team{
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.sub2{
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+    text-shadow: 0 0 10px rgb(229, 220, 233);
+}
+
+
+.juanita{
+    height: 400px;
+}
+
+.move1{
+    margin-left: 15px;
+}
+
+
+.shay{
+    height: 400px;
+}
+
+.kam{
+    height: 400px;
+    width: 229px;
+    margin-top: 28px;
+}
+
+.move3{
+    /* margin-left: 30px; */
+}
+
+
+.greg1{
+    margin-top: -20px;
+}
+
+.greg2{
+    height: 400px;
+    width: 222px;
+    margin-top: -8px;
+}
+
+.move4{
+    /* margin-left: 40px; */
 }
