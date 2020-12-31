@@ -16,3 +16,8 @@ p{
 /* .dropdown{
     float: right;
 } */
+
+.card{
+    margin-left: 470px;
+    box-shadow: 1px 7px 9px -2px rgb(164, 166, 177);
+}

@@ -18,7 +18,7 @@ body{
 
 .lead{
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 300px;
     color: white;
     text-shadow: 0 0 10px rgb(202, 158, 223),
                  0 0 20px rgb(172, 85, 212),
@@ -80,11 +80,6 @@ body{
                  /* 0 0 40px rgb(137, 32, 185); */
 }
 
-.video0{
-    box-shadow: 0 0 10px rgb(198, 111, 238),
-                0 0 10px rgb(177, 131, 199);
-                 
-}
 
 .pre{
     color: white;
@@ -428,6 +423,11 @@ hr{
 }
 
 
+.video0{
+    box-shadow: 0 0 10px rgb(198, 111, 238),
+                0 0 10px rgb(177, 131, 199);          
+}
+
 .video1{
     padding-left: 40px;
 }
@@ -449,4 +449,13 @@ hr{
 .video5{
     box-shadow: 0 0 10px rgb(163, 150, 235),
                 0 0 10px rgb(131, 158, 199);
+}
+
+.video6{
+    padding-left: 30px;
+}
+
+.video7{
+    box-shadow: 0 0 10px rgb(198, 111, 238),
+                0 0 10px rgb(177, 131, 199);
 }
