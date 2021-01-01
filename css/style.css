@@ -459,3 +459,19 @@ hr{
     box-shadow: 0 0 10px rgb(198, 111, 238),
                 0 0 10px rgb(177, 131, 199);
 }
+
+
+.d-block{
+    margin-left: 500px;
+    height: 500px;
+    width: 26%;
+}
+
+h5{
+    text-shadow: 0 0 10px rgb(42, 86, 182),
+                 0 0 20px rgb(2, 11, 59),
+                 /* 0 0 40px rgb(222, 196, 235), */
+                 0 0 40px rgb(1, 0, 26);
+                 /* 0 0 140px rgb(137, 32, 185); */
+    /* text-shadow: thistle; */
+}
